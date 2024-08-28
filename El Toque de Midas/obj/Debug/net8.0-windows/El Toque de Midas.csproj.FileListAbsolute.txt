@@ -1,0 +1,18 @@
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\El Toque de Midas.exe
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\El Toque de Midas.dll.config
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\El Toque de Midas.deps.json
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\El Toque de Midas.runtimeconfig.json
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\El Toque de Midas.dll
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\El Toque de Midas.pdb
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.Login.resources
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.csproj.GenerateResource.cache
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.AssemblyInfoInputs.cache
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.AssemblyInfo.cs
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.csproj.CoreCompileInputs.cache
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.dll
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\refint\El Toque de Midas.dll
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.pdb
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El Toque de Midas.genruntimeconfig.cache
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\ref\El Toque de Midas.dll
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.Properties.Resources.resources
