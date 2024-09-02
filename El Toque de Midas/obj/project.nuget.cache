@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "R9/vH0YMmNw=",
+  "dgSpecHash": "mFcGPXZzirQ=",
   "success": true,
-  "projectFilePath": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
+  "projectFilePath": "C:\\Users\\assert\\Documents\\Taller de Programación II\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gimen\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512"
+    "C:\\Users\\assert\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512"
   ],
   "logs": []
 }

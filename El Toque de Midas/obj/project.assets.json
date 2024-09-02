@@ -41,24 +41,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gimen\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\assert\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
+      "projectUniqueName": "C:\\Users\\assert\\Documents\\Taller de Programación II\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
       "projectName": "Front",
-      "projectPath": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
-      "packagesPath": "C:\\Users\\gimen\\.nuget\\packages\\",
-      "outputPath": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\obj\\",
+      "projectPath": "C:\\Users\\assert\\Documents\\Taller de Programación II\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
+      "packagesPath": "C:\\Users\\assert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\assert\\Documents\\Taller de Programación II\\El-toque-de-midas\\El Toque de Midas\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gimen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\assert\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
