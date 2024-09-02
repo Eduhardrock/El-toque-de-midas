@@ -1,0 +1,8 @@
+
+/.vs
+*.dll
+/Service/obj/Debug
+/Repositorio/obj/Debug
+/Repositorio/bin/Debug
+/Service/bin/Debug
+/El Toque de Midas/.vs

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\El Toque de Midas.csproj": {}
+    "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj": {}
   },
   "projects": {
-    "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\El Toque de Midas.csproj": {
+    "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\El Toque de Midas.csproj",
-        "projectName": "El Toque de Midas",
-        "projectPath": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\El Toque de Midas.csproj",
+        "projectUniqueName": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
+        "projectName": "Front",
+        "projectPath": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
         "packagesPath": "C:\\Users\\gimen\\.nuget\\packages\\",
         "outputPath": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\obj\\",
         "projectStyle": "PackageReference",
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,12 @@
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\bin\Debug\net8.0\Model.deps.json
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\bin\Debug\net8.0\Model.dll
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\bin\Debug\net8.0\Model.pdb
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\Model.sourcelink.json
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\Model.dll
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\Model.pdb
+C:\Terror\UNNE\3er año\taller 2\Repositorio\El-toque-de-midas\Model\obj\Debug\net8.0\ref\Model.dll

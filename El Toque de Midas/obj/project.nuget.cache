@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sZLZSzeqdP4=",
+  "dgSpecHash": "R9/vH0YMmNw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\assert\\Documents\\Taller de Programación II\\El-toque-de-midas\\El Toque de Midas\\El Toque de Midas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Terror\\UNNE\\3er año\\taller 2\\Repositorio\\El-toque-de-midas\\El Toque de Midas\\Front.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gimen\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
