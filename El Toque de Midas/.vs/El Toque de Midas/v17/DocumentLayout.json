@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|El Toque de Midas.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|El Toque de Midas.csproj|solutionrelative:listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|El Toque de Midas.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|El Toque de Midas.csproj|solutionrelative:listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|El Toque de Midas.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|El Toque de Midas.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -22,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 107,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ListaProductos.cs",
+              "RelativeDocumentMoniker": "ListaProductos.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ListaProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:29:59.78Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -38,7 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ListaProductos.cs",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ListaProductos.cs",
+              "RelativeDocumentMoniker": "ListaProductos.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ListaProductos.cs",
+              "RelativeToolTip": "ListaProductos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:33:47.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
@@ -63,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.Designer.cs",
               "RelativeDocumentMoniker": "Login.Designer.cs",
