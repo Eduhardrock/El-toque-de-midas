@@ -16,5 +16,17 @@ namespace El_Toque_de_Midas
         {
 
         }
+
+        private void Login_Enter(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void Login_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar.Equals('\r')) {
+                new MainMenu().Show();
+            }            
+        }
     }
 }

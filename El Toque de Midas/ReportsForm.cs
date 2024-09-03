@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace El_Toque_de_Midas
 {
-    public partial class Inicio : Form
+    public partial class ReportsForm : Form
     {
-        public Inicio()
+        public ReportsForm()
         {
             InitializeComponent();
         }

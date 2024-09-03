@@ -1,6 +1,6 @@
 ﻿namespace El_Toque_de_Midas
 {
-    partial class Inicio
+    partial class MainMenu
     {
         /// <summary>
         /// Required designer variable.
@@ -36,7 +36,7 @@
             ItemReportes = new FontAwesome.Sharp.IconMenuItem();
             ItemClientes = new FontAwesome.Sharp.IconMenuItem();
             ItemAcercaDe = new FontAwesome.Sharp.IconMenuItem();
-            panel1 = new Panel();
+            mainMenuPanel = new Panel();
             menuInicio.SuspendLayout();
             SuspendLayout();
             // 
@@ -70,6 +70,7 @@
             IcomVentas.Size = new Size(60, 67);
             IcomVentas.Text = "Ventas";
             IcomVentas.TextImageRelation = TextImageRelation.ImageAboveText;
+            IcomVentas.Click += IcomVentas_Click;
             // 
             // ItemCompras
             // 
@@ -81,10 +82,11 @@
             ItemCompras.Size = new Size(67, 67);
             ItemCompras.Text = "Compras";
             ItemCompras.TextImageRelation = TextImageRelation.ImageAboveText;
+            //ItemCompras.Click += ItemCompras_Click;
             // 
             // ItemProveedor
             // 
-            ItemProveedor.IconChar = FontAwesome.Sharp.IconChar.TruckDroplet;
+            ItemProveedor.IconChar = FontAwesome.Sharp.IconChar.Truck;
             ItemProveedor.IconColor = Color.Black;
             ItemProveedor.IconFont = FontAwesome.Sharp.IconFont.Auto;
             ItemProveedor.ImageScaling = ToolStripItemImageScaling.None;
@@ -92,6 +94,7 @@
             ItemProveedor.Size = new Size(84, 67);
             ItemProveedor.Text = "Proveedores";
             ItemProveedor.TextImageRelation = TextImageRelation.ImageAboveText;
+            ItemProveedor.Click += ItemProveedor_Click;
             // 
             // ItemReportes
             // 
@@ -103,6 +106,7 @@
             ItemReportes.Size = new Size(65, 67);
             ItemReportes.Text = "Reportes";
             ItemReportes.TextImageRelation = TextImageRelation.ImageAboveText;
+            ItemReportes.Click += ItemReportes_Click;
             // 
             // ItemClientes
             // 
@@ -126,24 +130,25 @@
             ItemAcercaDe.Text = "Acerca De";
             ItemAcercaDe.TextImageRelation = TextImageRelation.ImageAboveText;
             // 
-            // panel1
+            // mainMenuPanel
             // 
-            panel1.Dock = DockStyle.Fill;
-            panel1.Location = new Point(0, 71);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(1307, 522);
-            panel1.TabIndex = 1;
+            mainMenuPanel.Dock = DockStyle.Fill;
+            mainMenuPanel.Location = new Point(0, 71);
+            mainMenuPanel.Name = "mainMenuPanel";
+            mainMenuPanel.Size = new Size(1307, 522);
+            mainMenuPanel.TabIndex = 1;
             // 
-            // Inicio
+            // MainMenu
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1307, 593);
-            Controls.Add(panel1);
+            Controls.Add(mainMenuPanel);
             Controls.Add(menuInicio);
             MainMenuStrip = menuInicio;
-            Name = "Inicio";
-            Text = "Inicio";
+            Name = "MainMenu";
+            Text = "Toque de Midas - Menú Principal";
+            Load += Inicio_Load;
             menuInicio.ResumeLayout(false);
             menuInicio.PerformLayout();
             ResumeLayout(false);
@@ -160,6 +165,6 @@
         private FontAwesome.Sharp.IconMenuItem ItemProveedor;
         private FontAwesome.Sharp.IconMenuItem ItemReportes;
         private FontAwesome.Sharp.IconMenuItem ItemClientes;
-        private Panel panel1;
+        private Panel mainMenuPanel;
     }
 }

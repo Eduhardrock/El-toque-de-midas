@@ -78,6 +78,8 @@
             Name = "Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
+            Enter += Login_Enter;
+            KeyPress += Login_KeyPress;
             ResumeLayout(false);
             PerformLayout();
         }
