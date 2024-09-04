@@ -1,6 +1,6 @@
 ﻿namespace El_Toque_de_Midas
 {
-    partial class ReportsForm
+    partial class ShoppingForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             SuspendLayout();
             // 
-            // ReportsForm
+            // ShoppingForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(64, 64, 64);
             ClientSize = new Size(800, 450);
-            Name = "ReportsForm";
+            Name = "ShoppingForm";
             Text = "Form1";
             ResumeLayout(false);
         }

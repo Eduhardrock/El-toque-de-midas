@@ -42,6 +42,8 @@
             // 
             // menuInicio
             // 
+            menuInicio.BackColor = Color.Black;
+            menuInicio.GripMargin = new Padding(2, 2, 0, 0);
             menuInicio.Items.AddRange(new ToolStripItem[] { itemUsuarios, IcomVentas, ItemCompras, ItemProveedor, ItemReportes, ItemClientes, ItemAcercaDe });
             menuInicio.Location = new Point(0, 0);
             menuInicio.Name = "menuInicio";
@@ -51,20 +53,26 @@
             // 
             // itemUsuarios
             // 
+            itemUsuarios.BackColor = Color.Black;
+            itemUsuarios.ForeColor = Color.White;
             itemUsuarios.IconChar = FontAwesome.Sharp.IconChar.UsersCog;
-            itemUsuarios.IconColor = Color.Black;
+            itemUsuarios.IconColor = Color.White;
             itemUsuarios.IconFont = FontAwesome.Sharp.IconFont.Auto;
             itemUsuarios.ImageScaling = ToolStripItemImageScaling.None;
             itemUsuarios.Name = "itemUsuarios";
             itemUsuarios.Size = new Size(64, 67);
             itemUsuarios.Text = "Usuarios";
             itemUsuarios.TextImageRelation = TextImageRelation.ImageAboveText;
+            itemUsuarios.Click += itemUsuarios_Click;
             // 
             // IcomVentas
             // 
+            IcomVentas.BackColor = Color.Black;
+            IcomVentas.ForeColor = Color.White;
             IcomVentas.IconChar = FontAwesome.Sharp.IconChar.Tags;
-            IcomVentas.IconColor = Color.Black;
+            IcomVentas.IconColor = Color.White;
             IcomVentas.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            IcomVentas.ImageAlign = ContentAlignment.MiddleRight;
             IcomVentas.ImageScaling = ToolStripItemImageScaling.None;
             IcomVentas.Name = "IcomVentas";
             IcomVentas.Size = new Size(60, 67);
@@ -74,20 +82,24 @@
             // 
             // ItemCompras
             // 
+            ItemCompras.BackColor = Color.Black;
+            ItemCompras.ForeColor = Color.White;
             ItemCompras.IconChar = FontAwesome.Sharp.IconChar.CartFlatbed;
-            ItemCompras.IconColor = Color.Black;
+            ItemCompras.IconColor = Color.White;
             ItemCompras.IconFont = FontAwesome.Sharp.IconFont.Auto;
             ItemCompras.ImageScaling = ToolStripItemImageScaling.None;
             ItemCompras.Name = "ItemCompras";
             ItemCompras.Size = new Size(67, 67);
             ItemCompras.Text = "Compras";
             ItemCompras.TextImageRelation = TextImageRelation.ImageAboveText;
-            //ItemCompras.Click += ItemCompras_Click;
+            ItemCompras.Click += ItemCompras_Click;
             // 
             // ItemProveedor
             // 
+            ItemProveedor.BackColor = Color.Black;
+            ItemProveedor.ForeColor = Color.White;
             ItemProveedor.IconChar = FontAwesome.Sharp.IconChar.Truck;
-            ItemProveedor.IconColor = Color.Black;
+            ItemProveedor.IconColor = Color.White;
             ItemProveedor.IconFont = FontAwesome.Sharp.IconFont.Auto;
             ItemProveedor.ImageScaling = ToolStripItemImageScaling.None;
             ItemProveedor.Name = "ItemProveedor";
@@ -98,8 +110,10 @@
             // 
             // ItemReportes
             // 
+            ItemReportes.BackColor = Color.Black;
+            ItemReportes.ForeColor = Color.White;
             ItemReportes.IconChar = FontAwesome.Sharp.IconChar.ChartColumn;
-            ItemReportes.IconColor = Color.Black;
+            ItemReportes.IconColor = Color.White;
             ItemReportes.IconFont = FontAwesome.Sharp.IconFont.Auto;
             ItemReportes.ImageScaling = ToolStripItemImageScaling.None;
             ItemReportes.Name = "ItemReportes";
@@ -110,19 +124,24 @@
             // 
             // ItemClientes
             // 
-            ItemClientes.IconChar = FontAwesome.Sharp.IconChar.UsersCog;
-            ItemClientes.IconColor = Color.Black;
+            ItemClientes.BackColor = Color.Black;
+            ItemClientes.ForeColor = Color.White;
+            ItemClientes.IconChar = FontAwesome.Sharp.IconChar.ContactBook;
+            ItemClientes.IconColor = Color.White;
             ItemClientes.IconFont = FontAwesome.Sharp.IconFont.Auto;
             ItemClientes.ImageScaling = ToolStripItemImageScaling.None;
             ItemClientes.Name = "ItemClientes";
             ItemClientes.Size = new Size(61, 67);
             ItemClientes.Text = "Clientes";
             ItemClientes.TextImageRelation = TextImageRelation.ImageAboveText;
+            ItemClientes.Click += ItemClientes_Click;
             // 
             // ItemAcercaDe
             // 
+            ItemAcercaDe.BackColor = Color.Black;
+            ItemAcercaDe.ForeColor = Color.White;
             ItemAcercaDe.IconChar = FontAwesome.Sharp.IconChar.CircleInfo;
-            ItemAcercaDe.IconColor = Color.Black;
+            ItemAcercaDe.IconColor = Color.White;
             ItemAcercaDe.IconFont = FontAwesome.Sharp.IconFont.Auto;
             ItemAcercaDe.ImageScaling = ToolStripItemImageScaling.None;
             ItemAcercaDe.Name = "ItemAcercaDe";
@@ -133,6 +152,7 @@
             // mainMenuPanel
             // 
             mainMenuPanel.Dock = DockStyle.Fill;
+            mainMenuPanel.ForeColor = Color.White;
             mainMenuPanel.Location = new Point(0, 71);
             mainMenuPanel.Name = "mainMenuPanel";
             mainMenuPanel.Size = new Size(1307, 522);

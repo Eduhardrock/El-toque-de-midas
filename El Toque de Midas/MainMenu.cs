@@ -28,25 +28,24 @@ namespace El_Toque_de_Midas
         {
             if (menuActivo != null)
             {
-                menuActivo.BackColor = Color.White;
+                menuActivo.BackColor = Color.Black;
+                menuActivo.IconColor = Color.White;
+                menuActivo.ForeColor = Color.White;
             }
 
-            menu.BackColor = Color.FromArgb(255, 255, 128);
+            menu.BackColor = Color.DimGray;
+            menu.IconColor = Color.Gold;
+            menu.ForeColor = Color.Gold;
             menuActivo = menu;
 
             formularioActivo = form;
             form.TopLevel = false;
             form.FormBorderStyle = FormBorderStyle.None;
             form.Dock = DockStyle.Fill;
-            form.BackColor = Color.FromArgb(255, 255, 128);
+            form.BackColor = Color.DimGray;
 
             mainMenuPanel.Controls.Add(form);
             form.Show();
-
-        }
-
-        private void ItemProveedor_Click(object sender, EventArgs e)
-        {
 
         }
 
@@ -55,17 +54,32 @@ namespace El_Toque_de_Midas
 
         }
 
-        private void IcomVentas_Click(object sender, EventArgs e) {
-            abrirFormulario( (IconMenuItem)sender, new SalesForm() );
+        private void IcomVentas_Click(object sender, EventArgs e)
+        {
+            abrirFormulario((IconMenuItem)sender, new SalesForm());
         }
 
         private void ItemReportes_Click(object sender, EventArgs e)
         {
-            abrirFormulario( (IconMenuItem)sender, new ReportsForm() );
+            abrirFormulario((IconMenuItem)sender, new ReportsForm());
         }
 
-        //private void ItemCompras_Click(object sender, EventArgs e) {
-          //  abrirFormulario( (IconMenuItem)sender, new );
-        //}
+        private void ItemClientes_Click(object sender, EventArgs e) {
+            abrirFormulario((IconMenuItem)sender, new ClientsForm());
+        }
+
+        private void itemUsuarios_Click(object sender, EventArgs e) {
+            abrirFormulario((IconMenuItem)sender, new UsersForm());
+        }
+
+        private void ItemCompras_Click(object sender, EventArgs e) {
+            abrirFormulario((IconMenuItem)sender, new ShoppingForm());
+        }
+
+        private void ItemProveedor_Click(object sender, EventArgs e)
+        {
+            abrirFormulario((IconMenuItem)sender, new SuppliersForm());
+        }
+
     }
 }

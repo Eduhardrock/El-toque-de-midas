@@ -16,5 +16,23 @@ namespace El_Toque_de_Midas
         {
             InitializeComponent();
         }
+
+        private void ClientsForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox_Enter(object sender, EventArgs e)
+        {
+            
+            ((ClientsForm)sender).= Color.Khaki;
+        }
+
+        private void textBox_Leave(object sender, EventArgs e)
+        {
+            ((TextBox) sender).BackColor = Color.PaleGoldenrod;
+        }
+
+        
     }
 }
