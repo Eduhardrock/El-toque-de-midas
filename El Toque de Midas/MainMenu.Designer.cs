@@ -30,6 +30,7 @@
         {
             menuInicio = new MenuStrip();
             itemUsuarios = new FontAwesome.Sharp.IconMenuItem();
+            itemProductos = new FontAwesome.Sharp.IconMenuItem();
             IcomVentas = new FontAwesome.Sharp.IconMenuItem();
             ItemCompras = new FontAwesome.Sharp.IconMenuItem();
             ItemProveedor = new FontAwesome.Sharp.IconMenuItem();
@@ -44,7 +45,7 @@
             // 
             menuInicio.BackColor = Color.Black;
             menuInicio.GripMargin = new Padding(2, 2, 0, 0);
-            menuInicio.Items.AddRange(new ToolStripItem[] { itemUsuarios, IcomVentas, ItemCompras, ItemProveedor, ItemReportes, ItemClientes, ItemAcercaDe });
+            menuInicio.Items.AddRange(new ToolStripItem[] { itemUsuarios, itemProductos, IcomVentas, ItemCompras, ItemProveedor, ItemReportes, ItemClientes, ItemAcercaDe });
             menuInicio.Location = new Point(0, 0);
             menuInicio.Name = "menuInicio";
             menuInicio.Size = new Size(1307, 71);
@@ -64,6 +65,19 @@
             itemUsuarios.Text = "Usuarios";
             itemUsuarios.TextImageRelation = TextImageRelation.ImageAboveText;
             itemUsuarios.Click += itemUsuarios_Click;
+            //
+            // itemProductos
+            //
+            itemProductos.BackColor = Color.Black;
+            itemProductos.ForeColor = Color.White;
+            itemProductos.IconChar = FontAwesome.Sharp.IconChar.Barcode;
+            itemProductos.IconColor = Color.White;
+            itemProductos.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            itemProductos.ImageScaling = ToolStripItemImageScaling.None;
+            itemProductos.Name = "itemProductos";
+            itemProductos.Size = new Size(64, 67);
+            itemProductos.Text = "Productos";
+            itemProductos.TextImageRelation = TextImageRelation.ImageAboveText;
             // 
             // IcomVentas
             // 
@@ -185,6 +199,7 @@
         private FontAwesome.Sharp.IconMenuItem ItemProveedor;
         private FontAwesome.Sharp.IconMenuItem ItemReportes;
         private FontAwesome.Sharp.IconMenuItem ItemClientes;
+        private FontAwesome.Sharp.IconMenuItem itemProductos;
         private Panel mainMenuPanel;
     }
 }
