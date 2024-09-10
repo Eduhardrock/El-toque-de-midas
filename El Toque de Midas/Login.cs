@@ -26,7 +26,9 @@ namespace El_Toque_de_Midas
         {
             if (e.KeyChar.Equals('\r')) {
                 new MainMenu().Show();
-            }            
+                ((Form)sender).Close();
+            }
+            
         }
     }
 }

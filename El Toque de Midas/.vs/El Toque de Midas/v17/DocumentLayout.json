@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\clientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:clientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,20 +46,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 107,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs",
               "RelativeDocumentMoniker": "MainMenu.cs",
               "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs",
               "RelativeToolTip": "MainMenu.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAhwDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:42:59.104Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:00:47.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:00:03.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:58:57.157Z",
               "EditorCaption": ""
             },
             {
@@ -56,52 +111,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs",
-              "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MainMenu.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "ClientsForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "ClientsForm.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClientsForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:57:32.299Z",
+              "WhenOpened": "2024-09-09T23:43:21.67Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:47:47.572Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.Designer.cs",
+              "RelativeToolTip": "ClientsForm.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAvwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:07:15.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainMenu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.Designer.cs",
               "RelativeDocumentMoniker": "MainMenu.Designer.cs",
               "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.Designer.cs",
               "RelativeToolTip": "MainMenu.Designer.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwC8AAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAlwEwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T14:21:39.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientsForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.Designer.cs",
-              "RelativeDocumentMoniker": "ClientsForm.Designer.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.Designer.cs",
-              "RelativeToolTip": "ClientsForm.Designer.cs",
-              "ViewState": "AgIAAHABAAAAAAAAAAAvwHQBAAAkAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MainMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:07:15.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientsForm.cs",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.cs",
-              "RelativeDocumentMoniker": "ClientsForm.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.cs",
-              "RelativeToolTip": "ClientsForm.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAawDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T20:27:50.203Z"
+              "WhenOpened": "2024-09-09T23:23:43.44Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
