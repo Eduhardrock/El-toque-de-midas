@@ -25,3 +25,6 @@ C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\Fron
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\EntityFramework.SqlServer.dll
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\EntityFramework.SqlServer.xml
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.frmUsuario.resources
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.frmCategoria.resources
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.frmProducto.resources
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.frmProveedor.resources

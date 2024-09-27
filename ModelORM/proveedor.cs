@@ -24,6 +24,9 @@ namespace ModelORM
         public int id { get; set; }
         public string cuit { get; set; }
         public string razonSocial { get; set; }
+        public string telefono { get; set; } //agregar este campo en BD
+        public string email { get; set; } //agregar este campo en BD
+        public string domicilio { get; set; } //agregar este campo en BD
         public Nullable<System.DateTime> fechaCreacion { get; set; }
         public Nullable<System.DateTime> fechaUltModificacion { get; set; }
         public string observaciones { get; set; }

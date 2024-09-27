@@ -24,6 +24,7 @@ namespace ModelORM
         public int id { get; set; }
         public string sku { get; set; }
         public string codigoBarra { get; set; }
+        public string descripcion { get; set; }
         public int stock { get; set; }
         public int stock_minimo { get; set; }
         public decimal precio { get; set; }

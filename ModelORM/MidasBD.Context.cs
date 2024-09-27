@@ -25,21 +25,21 @@ namespace ModelORM
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<cargo> cargoes { get; set; }
+        public virtual DbSet<cargo> cargos { get; set; }
         public virtual DbSet<categoria> categorias { get; set; }
         public virtual DbSet<cliente> clientes { get; set; }
         public virtual DbSet<compra> compras { get; set; }
-        public virtual DbSet<compra_detalle> compra_detalle { get; set; }
-        public virtual DbSet<empleado> empleadoes { get; set; }
-        public virtual DbSet<estado> estadoes { get; set; }
+        public virtual DbSet<compra_detalle> compra_detalles { get; set; }
+        public virtual DbSet<empleado> empleados { get; set; }
+        public virtual DbSet<estado> estados { get; set; }
         public virtual DbSet<persona> personas { get; set; }
-        public virtual DbSet<producto> productoes { get; set; }
+        public virtual DbSet<producto> productos { get; set; }
         public virtual DbSet<proveedor> proveedors { get; set; }
         public virtual DbSet<rol> rols { get; set; }
         public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
         public virtual DbSet<tipoCliente> tipoClientes { get; set; }
         public virtual DbSet<usuario> usuarios { get; set; }
         public virtual DbSet<venta> ventas { get; set; }
-        public virtual DbSet<venta_detalle> venta_detalle { get; set; }
+        public virtual DbSet<venta_detalle> venta_detalles { get; set; }
     }
 }
