@@ -1,0 +1,14 @@
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\Repository.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\Repository.pdb
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.csproj.Up2Date
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.pdb
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\Repository.dll.config
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\EntityFramework.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\ModelORM.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\ModelORM.pdb
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\EntityFramework.xml
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\EntityFramework.SqlServer.xml

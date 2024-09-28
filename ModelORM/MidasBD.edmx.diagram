@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="42e212a608784759a1b74d0ddaa0868a" Name="Diagram1">
+        <EntityTypeShape EntityType="midasTouchModel.cargo" Width="1.5" PointX="1.5" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.categoria" Width="1.5" PointX="3.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.cliente" Width="1.5" PointX="6.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.compra" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.compra_detalle" Width="1.5" PointX="8.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.empleado" Width="1.5" PointX="1.5" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.estado" Width="1.5" PointX="3.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.persona" Width="1.5" PointX="1.5" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.producto" Width="1.5" PointX="6" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.proveedor" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.rol" Width="1.5" PointX="1.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.sysdiagram" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.tipoCliente" Width="1.5" PointX="4.5" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.usuario" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.venta" Width="1.5" PointX="9" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="midasTouchModel.venta_detalle" Width="1.5" PointX="11.25" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="midasTouchModel.fk_empleado_cargo" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_producto_categoria" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_cliente_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_cliente_tipo_cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_venta_cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_compra_detalle_compra" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_compra_proveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_compra_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_compra_detalle_producto" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_empleado_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_usuario_empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_producto_estado" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_producto_proveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_venta_detalle_producto" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_usuario_rol" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_venta_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="midasTouchModel.fk_venta_detalle_venta" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

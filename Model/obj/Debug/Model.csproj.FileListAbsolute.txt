@@ -1,0 +1,6 @@
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Model\bin\Debug\Model.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Model\bin\Debug\Model.pdb
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Model\obj\Debug\Model.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Model\obj\Debug\Model.pdb

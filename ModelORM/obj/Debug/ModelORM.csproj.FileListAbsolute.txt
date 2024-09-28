@@ -1,0 +1,11 @@
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\bin\Debug\ModelORM.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\bin\Debug\ModelORM.pdb
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\bin\Debug\EntityFramework.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\bin\Debug\EntityFramework.xml
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\obj\Debug\ModelORM.csproj.AssemblyReference.cache
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\obj\Debug\ModelORM.csproj.CoreCompileInputs.cache
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\obj\Debug\ModelORM.csproj.Up2Date
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\obj\Debug\ModelORM.dll
+C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\ModelORM\obj\Debug\ModelORM.pdb
