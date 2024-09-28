@@ -38,6 +38,11 @@ namespace El_Toque_de_Midas
             menu.ForeColor = Color.Gold;
             menuActivo = menu;
 
+            if (formularioActivo != null)
+            {
+                formularioActivo.Close();
+            }
+
             formularioActivo = form;
             form.TopLevel = false;
             form.FormBorderStyle = FormBorderStyle.None;

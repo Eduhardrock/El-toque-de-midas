@@ -25,6 +25,10 @@ C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque 
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.Login.resources
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.MainMenu.resources
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.Properties.Resources.resources
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.ReportsForm.resources
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.SalesForm.resources
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.ShoppingForm.resources
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.SuppliersForm.resources
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.UsersForm.resources
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.csproj.GenerateResource.cache
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.GeneratedMSBuildEditorConfig.editorconfig
@@ -32,9 +36,6 @@ C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque 
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.AssemblyInfo.cs
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.csproj.CoreCompileInputs.cache
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.sourcelink.json
-C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.pdb
-C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.ReportsForm.resources
-C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.SalesForm.resources
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\Front.exe
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\Front.dll.config
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\bin\Debug\net8.0-windows\Front.deps.json
@@ -45,7 +46,6 @@ C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque 
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.csproj.Up2Date
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.dll
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\refint\Front.dll
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.pdb
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.genruntimeconfig.cache
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\ref\Front.dll
-C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.ShoppingForm.resources
-C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.SuppliersForm.resources
