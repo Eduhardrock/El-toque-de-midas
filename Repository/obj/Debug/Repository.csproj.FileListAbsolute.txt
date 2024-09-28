@@ -1,7 +1,5 @@
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\Repository.dll
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\Repository.pdb
-C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\Model.dll
-C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\bin\Debug\Model.pdb
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Repository\obj\Debug\Repository.csproj.Up2Date

@@ -1,8 +1,6 @@
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\Service.dll
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\Service.pdb
-C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\Model.dll
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\Repository.dll
-C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\Model.pdb
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\Repository.pdb
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\obj\Debug\Service.csproj.AssemblyReference.cache
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache

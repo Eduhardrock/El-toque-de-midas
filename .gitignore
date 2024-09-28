@@ -1,2 +1,7 @@
 
 /.vs
+*.dll
+*.pdb
+*.dll
+/Front/bin/Debug
+Front/bin/Debug/Front.exe

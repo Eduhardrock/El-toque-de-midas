@@ -61,10 +61,6 @@
       <Project>{48919680-8182-4a50-a275-f3056e613b25}</Project>
       <Name>ModelORM</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{68901549-c46b-4d67-85ce-1c57390eaa99}</Project>
-      <Name>Model</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

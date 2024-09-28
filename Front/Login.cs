@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Service;
-using Model;
 using ModelORM;
 
 namespace Front

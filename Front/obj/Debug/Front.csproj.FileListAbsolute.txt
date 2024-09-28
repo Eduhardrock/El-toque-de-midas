@@ -10,10 +10,8 @@ C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Fron
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.csproj.Up2Date
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.exe
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.pdb
-C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\Model.dll
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\Service.dll
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\Repository.dll
-C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\Model.pdb
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\Service.pdb
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\Repository.pdb
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\bin\Debug\ModelORM.dll
