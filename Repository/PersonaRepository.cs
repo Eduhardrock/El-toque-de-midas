@@ -34,7 +34,7 @@ namespace Repository
             using (midasTouchEntities db = new midasTouchEntities())
             {
                 return db.personas
-                              .Where(c => c.dni == dni)
+                              .Where(p => p.dni == dni)
                               .FirstOrDefault<persona>();
             }
         }
@@ -61,12 +61,16 @@ namespace Repository
         }
 
 
-        public persona actualizar(int id, string nombre)
+        public persona actualizar(int id, persona personaActualizada)
         {
             using (midasTouchEntities db = new midasTouchEntities())
             {
                 var personaBD = db.personas.Find(id);
-                personaBD.nombre = nombre;
+                personaBD.nombre = personaActualizada.nombre;
+                personaBD.apellido = personaActualizada.apellido;
+                personaBD.email = personaActualizada.email;
+                personaBD.fechaNacimiento = personaActualizada.fechaNacimiento;
+                personaBD.telefono = personaActualizada.telefono;
                 db.SaveChanges();
                 return personaBD;
             }
