@@ -5,3 +5,11 @@
 *.dll
 /Front/bin/Debug
 Front/bin/Debug/Front.exe
+/Service/bin/Debug
+/Service/obj/Debug
+/Service/obj/Debug
+/Front/bin
+/Service/obj
+/Service/bin
+/Service/bin
+/Repository/obj

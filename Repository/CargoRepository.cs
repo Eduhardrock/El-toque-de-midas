@@ -9,7 +9,6 @@ namespace Repository
 {
     public class CargoRepository
     {
-
         public cargo crear(cargo nuevoCargo)
         {
             using (midasTouchEntities db = new midasTouchEntities())
@@ -29,12 +28,12 @@ namespace Repository
             }
         }
 
-        public cargo buscar(string nombre)
+        public cargo buscar(string nombreCargo)
         {
             using (midasTouchEntities db = new midasTouchEntities())
             {
                 return db.cargos
-                              .Where(c => c.nombre == nombre)
+                              .Where(c => c.nombre == nombreCargo)
                               .FirstOrDefault<cargo>();
             }
         }

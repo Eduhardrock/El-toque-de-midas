@@ -21,15 +21,15 @@ namespace Service
             Console.WriteLine("Resultado de buscar la cargo en la bd : " + cat.id);
             if (cat != null)
             {
-                throw new Exception("Ya existe una cargo con el nombre : " + nuevoCargo.nombre);
+                throw new Exception("Ya existe un cargo con el nombre : " + nuevoCargo.nombre);
             }
             return this.cargoRepository.crear(nuevoCargo);
         }
 
 
-        public cargo buscar(string nombreCargo)
+        public cargo buscar(string nombrCargo)
         {
-            return this.cargoRepository.buscar(nombreCargo);
+            return this.cargoRepository.buscar(nombrCargo);
         }
 
         public cargo buscarPorId(int id)
@@ -61,7 +61,7 @@ namespace Service
             var cat = this.buscarPorId(id);
             if (cat == null)
             {
-                throw new Exception("No existe ninguna cargo con el id brindado. Verificar");
+                throw new Exception("No existe ningun cargo con el id brindado. Verificar");
             }
 
             return this.cargoRepository.actualizar(id, nombre);
