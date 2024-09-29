@@ -15,10 +15,7 @@ namespace ModelORM
     public partial class empleado
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public empleado()
-        {
-            this.usuarios = new HashSet<usuario>();
-        }
+        public empleado(){}
     
         public int id { get; set; }
         public int id_cargo { get; set; }
@@ -26,10 +23,10 @@ namespace ModelORM
         public Nullable<System.DateTime> fechaEgreso { get; set; }
         public Nullable<System.DateTime> fechaUltModificacion { get; set; }
         public int id_persona { get; set; }
+        public string cuit {  get; set; }
     
         public virtual cargo cargo { get; set; }
         public virtual persona persona { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<usuario> usuarios { get; set; }
+        public virtual usuario usuarios { get; set; }
     }
 }
