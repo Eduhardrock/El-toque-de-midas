@@ -1,8 +1,17 @@
-
 /.vs
 *.dll
-/Service/obj/Debug
-/Repositorio/obj/Debug
-/Repositorio/bin/Debug
+*.pdb
+*.dll
+/Front/bin/Debug
+Front/bin/Debug/Front.exe
 /Service/bin/Debug
-/El Toque de Midas/.vs
+/Service/obj/Debug
+/Service/obj/Debug
+/Front/bin
+/Service/obj
+/Service/bin
+/Service/bin
+/Repository/obj
+
+El Toque de Midas/.vs/El Toque de Midas/DesignTimeBuild/.dtbcache.v2
+El Toque de Midas/.vs/El Toque de Midas/FileContentIndex/5ec56aab-398a-4712-932a-a4d5507a6c10.vsidx
