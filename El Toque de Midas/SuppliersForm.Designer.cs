@@ -78,8 +78,8 @@ namespace El_Toque_de_Midas
             // splitContainer1.Panel2
             // 
             splitContainer1.Panel2.Controls.Add(dataGridView1);
-            splitContainer1.Panel2.Paint += this.splitContainer1_Panel2_Paint;
-            splitContainer1.Size = new Size(1284, 561);
+            splitContainer1.Panel2.Paint += splitContainer1_Panel2_Paint;
+            splitContainer1.Size = new Size(1284, 661);
             splitContainer1.SplitterDistance = 266;
             splitContainer1.TabIndex = 4;
             // 
@@ -106,7 +106,7 @@ namespace El_Toque_de_Midas
             panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(266, 561);
+            panel1.Size = new Size(266, 661);
             panel1.TabIndex = 1;
             // 
             // searchButton
@@ -326,7 +326,7 @@ namespace El_Toque_de_Midas
             dataGridView1.Dock = DockStyle.Fill;
             dataGridView1.Location = new Point(0, 0);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(1014, 561);
+            dataGridView1.Size = new Size(1014, 661);
             dataGridView1.TabIndex = 3;
             // 
             // dni
@@ -364,7 +364,7 @@ namespace El_Toque_de_Midas
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(64, 64, 64);
-            ClientSize = new Size(1284, 561);
+            ClientSize = new Size(1284, 661);
             Controls.Add(splitContainer1);
             Name = "SuppliersForm";
             Text = "Form1";
@@ -380,7 +380,7 @@ namespace El_Toque_de_Midas
 
         private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
         {
-            throw new NotImplementedException();
+            
         }
 
         #endregion

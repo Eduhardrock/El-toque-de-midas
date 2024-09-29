@@ -45,10 +45,11 @@
             // 
             menuInicio.BackColor = Color.Black;
             menuInicio.GripMargin = new Padding(2, 2, 0, 0);
-            menuInicio.Items.AddRange(new ToolStripItem[] { itemUsuarios, itemProductos, IcomVentas, ItemCompras, ItemProveedor, ItemReportes, ItemClientes, ItemAcercaDe });
+            menuInicio.Items.AddRange(new ToolStripItem[] { itemUsuarios, itemProductos, IcomVentas,
+                ItemCompras, ItemProveedor, ItemReportes, ItemClientes, ItemAcercaDe });
             menuInicio.Location = new Point(0, 0);
             menuInicio.Name = "menuInicio";
-            menuInicio.Size = new Size(1307, 71);
+            menuInicio.Size = new Size(1284, 71);
             menuInicio.TabIndex = 0;
             menuInicio.Text = "menuInicio";
             // 
@@ -65,9 +66,9 @@
             itemUsuarios.Text = "Usuarios";
             itemUsuarios.TextImageRelation = TextImageRelation.ImageAboveText;
             itemUsuarios.Click += itemUsuarios_Click;
-            //
+            // 
             // itemProductos
-            //
+            // 
             itemProductos.BackColor = Color.Black;
             itemProductos.ForeColor = Color.White;
             itemProductos.IconChar = FontAwesome.Sharp.IconChar.Barcode;
@@ -75,9 +76,10 @@
             itemProductos.IconFont = FontAwesome.Sharp.IconFont.Auto;
             itemProductos.ImageScaling = ToolStripItemImageScaling.None;
             itemProductos.Name = "itemProductos";
-            itemProductos.Size = new Size(64, 67);
+            itemProductos.Size = new Size(73, 67);
             itemProductos.Text = "Productos";
             itemProductos.TextImageRelation = TextImageRelation.ImageAboveText;
+            itemProductos.Click += ItemProductos_Click;
             // 
             // IcomVentas
             // 
@@ -162,6 +164,7 @@
             ItemAcercaDe.Size = new Size(72, 67);
             ItemAcercaDe.Text = "Acerca De";
             ItemAcercaDe.TextImageRelation = TextImageRelation.ImageAboveText;
+            ItemAcercaDe.Click += ItemAcercaDe_Click;
             // 
             // mainMenuPanel
             // 
@@ -169,18 +172,19 @@
             mainMenuPanel.ForeColor = Color.White;
             mainMenuPanel.Location = new Point(0, 71);
             mainMenuPanel.Name = "mainMenuPanel";
-            mainMenuPanel.Size = new Size(1307, 522);
+            mainMenuPanel.Size = new Size(1284, 590);
             mainMenuPanel.TabIndex = 1;
             // 
             // MainMenu
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1307, 593);
+            ClientSize = new Size(1284, 661);
             Controls.Add(mainMenuPanel);
             Controls.Add(menuInicio);
             MainMenuStrip = menuInicio;
             Name = "MainMenu";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Toque de Midas - Menú Principal";
             Load += Inicio_Load;
             menuInicio.ResumeLayout(false);

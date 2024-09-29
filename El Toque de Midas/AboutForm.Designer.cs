@@ -1,6 +1,6 @@
 ﻿namespace El_Toque_de_Midas
 {
-    partial class ReportsForm
+    partial class AboutForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,38 +28,57 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ReportsForm));
             pictureBox1 = new PictureBox();
+            label1 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // pictureBox1
             // 
+            pictureBox1.BackColor = Color.Black;
             pictureBox1.Dock = DockStyle.Fill;
-            pictureBox1.Image = Properties.Resources.chat;
-            pictureBox1.InitialImage = (Image)resources.GetObject("pictureBox1.InitialImage");
+            pictureBox1.Image = Properties.Resources.login;
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(1284, 661);
-            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
+            pictureBox1.Size = new Size(225, 321);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
-            // ReportsForm
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.Khaki;
+            label1.Location = new Point(27, 219);
+            label1.Name = "label1";
+            label1.Size = new Size(170, 80);
+            label1.TabIndex = 1;
+            label1.Text = "Talle de Programación II\r\n- - - Grupo Nro. 19 - - -\r\nDaniel Eduardo Gimeno\r\nDiego Gerardo Trangoni";
+            label1.Click += label1_Click;
+            // 
+            // AboutForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(64, 64, 64);
-            ClientSize = new Size(1284, 661);
+            BackColor = Color.Black;
+            BackgroundImageLayout = ImageLayout.Center;
+            ClientSize = new Size(225, 321);
+            Controls.Add(label1);
             Controls.Add(pictureBox1);
-            Name = "ReportsForm";
-            Text = "Form1";
+            ForeColor = SystemColors.ControlText;
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "AboutForm";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Acerca De";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private PictureBox pictureBox1;
+        private Label label1;
     }
 }

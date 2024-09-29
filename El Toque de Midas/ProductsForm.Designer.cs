@@ -1,6 +1,7 @@
-﻿namespace El_Toque_de_Midas
+﻿
+namespace El_Toque_de_Midas
 {
-    partial class ClientsForm
+    partial class ProductsForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,8 +31,9 @@
         {
             DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
-            splitContainer1 = new SplitContainer();
-            panel1 = new Panel();
+            address = new DataGridViewTextBoxColumn();
+            telephone = new DataGridViewTextBoxColumn();
+            lastName = new DataGridViewTextBoxColumn();
             searchButton = new FontAwesome.Sharp.IconButton();
             deleteButton = new FontAwesome.Sharp.IconButton();
             modifyButton = new FontAwesome.Sharp.IconButton();
@@ -41,73 +43,42 @@
             label5 = new Label();
             emailTextBox = new TextBox();
             label4 = new Label();
+            nombre = new DataGridViewTextBoxColumn();
+            dni = new DataGridViewTextBoxColumn();
             telTextBox = new TextBox();
             label3 = new Label();
-            label2 = new Label();
             nameTextBox = new TextBox();
             lastNameTextBox = new TextBox();
             label1 = new Label();
             dniTextBox = new TextBox();
             clientBigLabel = new Label();
-            dataGridView1 = new DataGridView();
-            dni = new DataGridViewTextBoxColumn();
-            nombre = new DataGridViewTextBoxColumn();
-            lastName = new DataGridViewTextBoxColumn();
-            telephone = new DataGridViewTextBoxColumn();
             email = new DataGridViewTextBoxColumn();
-            address = new DataGridViewTextBoxColumn();
+            panel1 = new Panel();
+            label2 = new Label();
+            splitContainer1 = new SplitContainer();
+            dataGridView1 = new DataGridView();
+            panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)splitContainer1).BeginInit();
             splitContainer1.Panel1.SuspendLayout();
             splitContainer1.Panel2.SuspendLayout();
             splitContainer1.SuspendLayout();
-            panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
-            // splitContainer1
+            // address
             // 
-            splitContainer1.Dock = DockStyle.Fill;
-            splitContainer1.Location = new Point(0, 0);
-            splitContainer1.Name = "splitContainer1";
+            address.HeaderText = "Dirección";
+            address.Name = "address";
             // 
-            // splitContainer1.Panel1
+            // telephone
             // 
-            splitContainer1.Panel1.Controls.Add(panel1);
+            telephone.HeaderText = "Teléfono";
+            telephone.Name = "telephone";
             // 
-            // splitContainer1.Panel2
+            // lastName
             // 
-            splitContainer1.Panel2.Controls.Add(dataGridView1);
-            splitContainer1.Panel2.Paint += splitContainer1_Panel2_Paint;
-            splitContainer1.Size = new Size(1284, 661);
-            splitContainer1.SplitterDistance = 266;
-            splitContainer1.TabIndex = 2;
-            splitContainer1.SplitterMoved += splitContainer1_SplitterMoved;
-            // 
-            // panel1
-            // 
-            panel1.BackColor = Color.DimGray;
-            panel1.Controls.Add(searchButton);
-            panel1.Controls.Add(deleteButton);
-            panel1.Controls.Add(modifyButton);
-            panel1.Controls.Add(saveButton);
-            panel1.Controls.Add(label6);
-            panel1.Controls.Add(addressTextBox);
-            panel1.Controls.Add(label5);
-            panel1.Controls.Add(emailTextBox);
-            panel1.Controls.Add(label4);
-            panel1.Controls.Add(telTextBox);
-            panel1.Controls.Add(label3);
-            panel1.Controls.Add(label2);
-            panel1.Controls.Add(nameTextBox);
-            panel1.Controls.Add(lastNameTextBox);
-            panel1.Controls.Add(label1);
-            panel1.Controls.Add(dniTextBox);
-            panel1.Controls.Add(clientBigLabel);
-            panel1.Dock = DockStyle.Fill;
-            panel1.Location = new Point(0, 0);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(266, 661);
-            panel1.TabIndex = 1;
+            lastName.HeaderText = "Apellido/s";
+            lastName.Name = "lastName";
             // 
             // searchButton
             // 
@@ -173,7 +144,6 @@
             saveButton.Size = new Size(52, 49);
             saveButton.TabIndex = 15;
             saveButton.UseVisualStyleBackColor = false;
-            saveButton.Click += saveButton_Click;
             // 
             // label6
             // 
@@ -182,9 +152,9 @@
             label6.Location = new Point(22, 406);
             label6.Margin = new Padding(3, 0, 3, 3);
             label6.Name = "label6";
-            label6.Size = new Size(57, 15);
+            label6.Size = new Size(42, 15);
             label6.TabIndex = 14;
-            label6.Text = "Dirección";
+            label6.Text = "Estado";
             // 
             // addressTextBox
             // 
@@ -194,8 +164,6 @@
             addressTextBox.Name = "addressTextBox";
             addressTextBox.Size = new Size(226, 23);
             addressTextBox.TabIndex = 13;
-            addressTextBox.Enter += textBox_Enter;
-            addressTextBox.Leave += textBox_Leave;
             // 
             // label5
             // 
@@ -206,7 +174,7 @@
             label5.Name = "label5";
             label5.Size = new Size(36, 15);
             label5.TabIndex = 12;
-            label5.Text = "Email";
+            label5.Text = "Stock";
             // 
             // emailTextBox
             // 
@@ -216,8 +184,6 @@
             emailTextBox.Name = "emailTextBox";
             emailTextBox.Size = new Size(226, 23);
             emailTextBox.TabIndex = 11;
-            emailTextBox.Enter += textBox_Enter;
-            emailTextBox.Leave += textBox_Leave;
             // 
             // label4
             // 
@@ -227,9 +193,19 @@
             label4.Location = new Point(22, 278);
             label4.Margin = new Padding(3, 0, 3, 3);
             label4.Name = "label4";
-            label4.Size = new Size(52, 15);
+            label4.Size = new Size(40, 15);
             label4.TabIndex = 10;
-            label4.Text = "Teléfono";
+            label4.Text = "Precio";
+            // 
+            // nombre
+            // 
+            nombre.HeaderText = "Nombre";
+            nombre.Name = "nombre";
+            // 
+            // dni
+            // 
+            dni.HeaderText = "Nro. DNI";
+            dni.Name = "dni";
             // 
             // telTextBox
             // 
@@ -239,8 +215,6 @@
             telTextBox.Name = "telTextBox";
             telTextBox.Size = new Size(226, 23);
             telTextBox.TabIndex = 9;
-            telTextBox.Enter += textBox_Enter;
-            telTextBox.Leave += textBox_Leave;
             // 
             // label3
             // 
@@ -249,20 +223,9 @@
             label3.Location = new Point(22, 214);
             label3.Margin = new Padding(3, 0, 3, 3);
             label3.Name = "label3";
-            label3.Size = new Size(61, 15);
+            label3.Size = new Size(58, 15);
             label3.TabIndex = 8;
-            label3.Text = "Nombre/s";
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.ForeColor = Color.White;
-            label2.Location = new Point(22, 150);
-            label2.Margin = new Padding(3, 0, 3, 3);
-            label2.Name = "label2";
-            label2.Size = new Size(61, 15);
-            label2.TabIndex = 7;
-            label2.Text = "Apellido/s";
+            label3.Text = "Categoría";
             // 
             // nameTextBox
             // 
@@ -272,8 +235,6 @@
             nameTextBox.Name = "nameTextBox";
             nameTextBox.Size = new Size(226, 23);
             nameTextBox.TabIndex = 6;
-            nameTextBox.Enter += textBox_Enter;
-            nameTextBox.Leave += textBox_Leave;
             // 
             // lastNameTextBox
             // 
@@ -283,8 +244,6 @@
             lastNameTextBox.Name = "lastNameTextBox";
             lastNameTextBox.Size = new Size(226, 23);
             lastNameTextBox.TabIndex = 5;
-            lastNameTextBox.Enter += textBox_Enter;
-            lastNameTextBox.Leave += textBox_Leave;
             // 
             // label1
             // 
@@ -293,9 +252,9 @@
             label1.Location = new Point(22, 86);
             label1.Margin = new Padding(3, 0, 3, 3);
             label1.Name = "label1";
-            label1.Size = new Size(53, 15);
+            label1.Size = new Size(114, 15);
             label1.TabIndex = 4;
-            label1.Text = "Nro. DNI";
+            label1.Text = "Código de Producto";
             // 
             // dniTextBox
             // 
@@ -305,8 +264,6 @@
             dniTextBox.Name = "dniTextBox";
             dniTextBox.Size = new Size(226, 23);
             dniTextBox.TabIndex = 1;
-            dniTextBox.Enter += textBox_Enter;
-            dniTextBox.Leave += textBox_Leave;
             // 
             // clientBigLabel
             // 
@@ -315,9 +272,69 @@
             clientBigLabel.ForeColor = Color.White;
             clientBigLabel.Location = new Point(22, 22);
             clientBigLabel.Name = "clientBigLabel";
-            clientBigLabel.Size = new Size(135, 45);
+            clientBigLabel.Size = new Size(168, 45);
             clientBigLabel.TabIndex = 0;
-            clientBigLabel.Text = "Clientes";
+            clientBigLabel.Text = "Productos";
+            // 
+            // email
+            // 
+            email.HeaderText = "E-mail";
+            email.Name = "email";
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.DimGray;
+            panel1.Controls.Add(searchButton);
+            panel1.Controls.Add(deleteButton);
+            panel1.Controls.Add(modifyButton);
+            panel1.Controls.Add(saveButton);
+            panel1.Controls.Add(label6);
+            panel1.Controls.Add(addressTextBox);
+            panel1.Controls.Add(label5);
+            panel1.Controls.Add(emailTextBox);
+            panel1.Controls.Add(label4);
+            panel1.Controls.Add(telTextBox);
+            panel1.Controls.Add(label3);
+            panel1.Controls.Add(label2);
+            panel1.Controls.Add(nameTextBox);
+            panel1.Controls.Add(lastNameTextBox);
+            panel1.Controls.Add(label1);
+            panel1.Controls.Add(dniTextBox);
+            panel1.Controls.Add(clientBigLabel);
+            panel1.Dock = DockStyle.Fill;
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(266, 661);
+            panel1.TabIndex = 1;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(22, 150);
+            label2.Margin = new Padding(3, 0, 3, 3);
+            label2.Name = "label2";
+            label2.Size = new Size(69, 15);
+            label2.TabIndex = 7;
+            label2.Text = "Descripción";
+            // 
+            // splitContainer1
+            // 
+            splitContainer1.Dock = DockStyle.Fill;
+            splitContainer1.Location = new Point(0, 0);
+            splitContainer1.Name = "splitContainer1";
+            // 
+            // splitContainer1.Panel1
+            // 
+            splitContainer1.Panel1.Controls.Add(panel1);
+            // 
+            // splitContainer1.Panel2
+            // 
+            splitContainer1.Panel2.Controls.Add(dataGridView1);
+            splitContainer1.Panel2.Paint += splitContainer1_Panel2_Paint;
+            splitContainer1.Size = new Size(1284, 661);
+            splitContainer1.SplitterDistance = 266;
+            splitContainer1.TabIndex = 3;
             // 
             // dataGridView1
             // 
@@ -342,82 +359,55 @@
             dataGridView1.Size = new Size(1014, 661);
             dataGridView1.TabIndex = 3;
             // 
-            // dni
-            // 
-            dni.HeaderText = "Nro. DNI";
-            dni.Name = "dni";
-            // 
-            // nombre
-            // 
-            nombre.HeaderText = "Nombre";
-            nombre.Name = "nombre";
-            // 
-            // lastName
-            // 
-            lastName.HeaderText = "Apellido/s";
-            lastName.Name = "lastName";
-            // 
-            // telephone
-            // 
-            telephone.HeaderText = "Teléfono";
-            telephone.Name = "telephone";
-            // 
-            // email
-            // 
-            email.HeaderText = "E-mail";
-            email.Name = "email";
-            // 
-            // address
-            // 
-            address.HeaderText = "Dirección";
-            address.Name = "address";
-            // 
-            // ClientsForm
+            // ProductsForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(64, 64, 64);
             ClientSize = new Size(1284, 661);
             Controls.Add(splitContainer1);
-            Name = "ClientsForm";
+            Name = "ProductsForm";
             Text = "Form1";
-            Load += ClientsForm_Load;
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             splitContainer1.Panel1.ResumeLayout(false);
             splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)splitContainer1).EndInit();
             splitContainer1.ResumeLayout(false);
-            panel1.ResumeLayout(false);
-            panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
 
+        private void splitContainer1_Panel2_Paint(object sender, PaintEventArgs e)
+        {
+        }
+
         #endregion
-        private SplitContainer splitContainer1;
-        private Panel panel1;
+
+        private DataGridViewTextBoxColumn address;
+        private DataGridViewTextBoxColumn telephone;
+        private DataGridViewTextBoxColumn lastName;
+        private FontAwesome.Sharp.IconButton searchButton;
+        private FontAwesome.Sharp.IconButton deleteButton;
+        private FontAwesome.Sharp.IconButton modifyButton;
+        private FontAwesome.Sharp.IconButton saveButton;
         private Label label6;
         private TextBox addressTextBox;
         private Label label5;
         private TextBox emailTextBox;
         private Label label4;
+        private DataGridViewTextBoxColumn nombre;
+        private DataGridViewTextBoxColumn dni;
         private TextBox telTextBox;
         private Label label3;
-        private Label label2;
         private TextBox nameTextBox;
         private TextBox lastNameTextBox;
         private Label label1;
         private TextBox dniTextBox;
         private Label clientBigLabel;
-        private DataGridView dataGridView1;
-        private DataGridViewTextBoxColumn dni;
-        private DataGridViewTextBoxColumn nombre;
-        private DataGridViewTextBoxColumn lastName;
-        private DataGridViewTextBoxColumn telephone;
         private DataGridViewTextBoxColumn email;
-        private DataGridViewTextBoxColumn address;
-        private FontAwesome.Sharp.IconButton saveButton;
-        private FontAwesome.Sharp.IconButton deleteButton;
-        private FontAwesome.Sharp.IconButton modifyButton;
-        private FontAwesome.Sharp.IconButton searchButton;
+        private Panel panel1;
+        private Label label2;
+        private SplitContainer splitContainer1;
+        private DataGridView dataGridView1;
     }
 }

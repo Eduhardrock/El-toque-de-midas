@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\shoppingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:shoppingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\usersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:usersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\clientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:clientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|c:\\users\\assert\\documents\\taller de programaci\u00F3n ii\\el-toque-de-midas\\el toque de midas\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F8A299-BA37-4C4E-BC16-F4B5375A7735}|Front.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,64 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SuppliersForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\SuppliersForm.cs",
-              "RelativeDocumentMoniker": "SuppliersForm.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\SuppliersForm.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "SuppliersForm.cs [Dise\u00F1o]*",
+              "Title": "ShoppingForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ShoppingForm.cs",
+              "RelativeDocumentMoniker": "ShoppingForm.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ShoppingForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ShoppingForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T20:42:28.22Z",
+              "WhenOpened": "2024-09-29T15:47:19.003Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientsForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.cs",
-              "RelativeDocumentMoniker": "ClientsForm.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClientsForm.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "SalesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\SalesForm.cs",
+              "RelativeDocumentMoniker": "SalesForm.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\SalesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SalesForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:51:54.858Z",
+              "WhenOpened": "2024-09-29T15:47:06.128Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsersForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\UsersForm.Designer.cs",
-              "RelativeDocumentMoniker": "UsersForm.Designer.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\UsersForm.Designer.cs",
-              "RelativeToolTip": "UsersForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwBAAAJAAAAAAAAAA==",
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\AboutForm.cs",
+              "RelativeDocumentMoniker": "AboutForm.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\AboutForm.cs",
+              "RelativeToolTip": "AboutForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:34:36.789Z",
+              "WhenOpened": "2024-09-29T15:34:03.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\UsersForm.cs",
-              "RelativeDocumentMoniker": "UsersForm.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\UsersForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "UsersForm.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\MainMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MainMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T18:33:54.005Z",
+              "WhenOpened": "2024-09-29T15:07:15.74Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientsForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.Designer.cs",
-              "RelativeDocumentMoniker": "ClientsForm.Designer.cs",
-              "ToolTip": "C:\\Users\\assert\\Documents\\Taller de Programaci\u00F3n II\\El-toque-de-midas\\El Toque de Midas\\ClientsForm.Designer.cs",
-              "RelativeToolTip": "ClientsForm.Designer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwBwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:07:15.302Z",
-              "EditorCaption": ""
             }
           ]
         }

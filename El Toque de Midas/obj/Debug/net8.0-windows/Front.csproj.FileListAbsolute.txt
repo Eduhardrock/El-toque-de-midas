@@ -49,3 +49,5 @@ C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque 
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.pdb
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\Front.genruntimeconfig.cache
 C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\ref\Front.dll
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.ProductsForm.resources
+C:\Users\assert\Documents\Taller de Programación II\El-toque-de-midas\El Toque de Midas\obj\Debug\net8.0-windows\El_Toque_de_Midas.AboutForm.resources

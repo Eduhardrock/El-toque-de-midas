@@ -69,15 +69,18 @@ namespace El_Toque_de_Midas
             abrirFormulario((IconMenuItem)sender, new ReportsForm());
         }
 
-        private void ItemClientes_Click(object sender, EventArgs e) {
+        private void ItemClientes_Click(object sender, EventArgs e)
+        {
             abrirFormulario((IconMenuItem)sender, new ClientsForm());
         }
 
-        private void itemUsuarios_Click(object sender, EventArgs e) {
+        private void itemUsuarios_Click(object sender, EventArgs e)
+        {
             abrirFormulario((IconMenuItem)sender, new UsersForm());
         }
 
-        private void ItemCompras_Click(object sender, EventArgs e) {
+        private void ItemCompras_Click(object sender, EventArgs e)
+        {
             abrirFormulario((IconMenuItem)sender, new ShoppingForm());
         }
 
@@ -86,5 +89,14 @@ namespace El_Toque_de_Midas
             abrirFormulario((IconMenuItem)sender, new SuppliersForm());
         }
 
+        private void ItemProductos_Click(object sender, EventArgs e)
+        {
+            abrirFormulario((IconMenuItem)sender, new ProductsForm());
+        }
+
+        private void ItemAcercaDe_Click(object sender, EventArgs e)
+        {
+            new AboutForm().Show();
+        }
     }
 }

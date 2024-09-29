@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace El_Toque_de_Midas
 {
-    public partial class SalesForm : Form
+    public partial class AboutForm : Form
     {
-        public SalesForm()
+        public AboutForm()
         {
             InitializeComponent();
         }
 
-        private void SalesForm_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
