@@ -9,6 +9,7 @@ namespace Repository
 {
     public class ClienteRepository
     {
+
         public cliente crear(cliente nuevoCliente)
         {
             using (midasTouchEntities db = new midasTouchEntities())
@@ -60,12 +61,14 @@ namespace Repository
         }
 
 
-        public cliente actualizar(int id, string nombre)
+        public cliente actualizar(int id, cliente clienteActualizado)
         {
             using (midasTouchEntities db = new midasTouchEntities())
             {
                 var clienteBD = db.clientes.Find(id);
-                clienteBD.nombre = nombre;
+                clienteBD.id_tipoCliente = clienteActualizado.id_tipoCliente;
+                clienteBD.observaciones = clienteActualizado.observaciones;
+                clienteBD.id_persona = clienteActualizado.id_persona;
                 db.SaveChanges();
                 return clienteBD;
             }
