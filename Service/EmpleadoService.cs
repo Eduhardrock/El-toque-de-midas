@@ -32,6 +32,11 @@ namespace Service
             return this.empleadoRepository.buscarPorCuit(cuit);
         }
 
+        public empleado buscarPorIdPersona(int idPersona)
+        {
+            return this.empleadoRepository.buscarPorIdPersona(idPersona);
+        }
+
         public empleado buscarPorId(int id)
         {
             return this.empleadoRepository.buscarPorId(id);

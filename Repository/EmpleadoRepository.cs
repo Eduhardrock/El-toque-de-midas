@@ -76,5 +76,15 @@ namespace Repository
                 return empleadoBD;
             }
         }
+
+        public empleado buscarPorIdPersona(int idPersona)
+        {
+            using (midasTouchEntities db = new midasTouchEntities())
+            {
+                return db.empleados
+                              .Where(c => c.id_persona == idPersona)
+                              .FirstOrDefault<empleado>();
+            }
+        }
     }
 }

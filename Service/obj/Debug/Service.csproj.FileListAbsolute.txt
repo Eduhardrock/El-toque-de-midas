@@ -12,3 +12,19 @@ C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\En
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\ModelORM.pdb
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\Repository.dll.config
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Service\bin\Debug\EntityFramework.xml
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\Service.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\Service.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\ModelORM.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\Repository.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\EntityFramework.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\ModelORM.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\Repository.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\EntityFramework.xml
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\obj\Debug\Service.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\obj\Debug\Service.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\ModelORM.dll.config
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\Service.dll.config
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Service\bin\Debug\Repository.dll.config

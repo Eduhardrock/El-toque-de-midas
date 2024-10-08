@@ -15,7 +15,12 @@ namespace ModelORM
     public partial class persona
     {
 
-        public persona() { }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public persona()
+        {
+            this.clientes = new HashSet<cliente>();
+            this.empleadoes = new HashSet<empleado>();
+        }
 
         public int id { get; set; }
         public string nombre { get; set; }
@@ -24,8 +29,10 @@ namespace ModelORM
         public Nullable<System.DateTime> fechaNacimiento { get; set; }
         public string telefono { get; set; }
         public string email { get; set; }
-    
-        public virtual cliente clientes { get; set; }
-        public virtual empleado empleadoes { get; set; }
+
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<cliente> clientes { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<empleado> empleadoes { get; set; }
     }
 }

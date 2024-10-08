@@ -51,10 +51,16 @@
   <ItemGroup>
     <Compile Include="CargoRepository.cs" />
     <Compile Include="CategoriaRepository.cs" />
+    <Compile Include="ClienteRepository.cs" />
     <Compile Include="Conexion.cs" />
+    <Compile Include="EmpleadoRepository.cs" />
+    <Compile Include="EstadoRepository.cs" />
+    <Compile Include="PersonaRepository.cs" />
     <Compile Include="ProductoRepository.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProveedorRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RolRepository.cs" />
+    <Compile Include="TipoClienteRepository.cs" />
     <Compile Include="UsuarioRepository.cs" />
   </ItemGroup>
   <ItemGroup>

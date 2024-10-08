@@ -27,6 +27,6 @@ namespace ModelORM
     
         public virtual cargo cargo { get; set; }
         public virtual persona persona { get; set; }
-        public virtual usuario usuarios { get; set; }
+        public virtual ICollection<usuario> usuarios { get; set; }
     }
 }

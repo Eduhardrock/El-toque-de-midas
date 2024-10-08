@@ -23,6 +23,11 @@ namespace Service
             return this.usuarioRepository.buscarPorUsername(username);
         }
 
+        public List<usuario> buscarFiltrando(string dni, string username, int rol)
+        {
+            return this.usuarioRepository.buscarFiltrando(dni, username, rol);
+        }
+
         public usuario agregar(usuario nuevoUsuario)
         {
             return this.usuarioRepository.agregar(nuevoUsuario);

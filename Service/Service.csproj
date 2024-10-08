@@ -43,10 +43,16 @@
   <ItemGroup>
     <Compile Include="CargoService.cs" />
     <Compile Include="CategoriaService.cs" />
+    <Compile Include="ClienteService.cs" />
+    <Compile Include="EmpleadoService.cs" />
+    <Compile Include="EstadoService.cs" />
+    <Compile Include="PersonaService.cs" />
     <Compile Include="Constantes\RegexConstants.cs" />
     <Compile Include="ProductoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProveedorService.cs" />
+    <Compile Include="RolService.cs" />
+    <Compile Include="TipoClienteService.cs" />
     <Compile Include="UsuarioService.cs" />
     <Compile Include="validaciones\ProductoValidaciones.cs" />
   </ItemGroup>
@@ -59,6 +65,9 @@
       <Project>{b1a52f1b-e98d-4b4f-a4cd-e8d41c607ea8}</Project>
       <Name>Repository</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

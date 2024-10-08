@@ -26,3 +26,30 @@ C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Fron
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.frmCategoria.resources
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.frmProducto.resources
 C:\Terror\UNNE\3er año\taller 2\Proyecto\El-toque-de-midas\Front\obj\Debug\Front.frmProveedor.resources
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Front.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\EntityFramework.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\ModelORM.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Service.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Repository.dll
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\ModelORM.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\ModelORM.dll.config
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Service.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Service.dll.config
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\EntityFramework.xml
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Repository.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Repository.dll.config
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.csproj.Up2Date
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.pdb
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Front.exe.config
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\bin\Debug\Front.exe
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.exe
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.Login.resources
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.UsersForm.resources
+C:\Users\assert\Downloads\El-toque-de-midas-develop\Front\obj\Debug\Front.MainMenu.resources

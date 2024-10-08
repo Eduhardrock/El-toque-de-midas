@@ -9,6 +9,6 @@ namespace Repository
 {
     public class Conexion
     {
-        public static string sqlServer = ConfigurationManager.ConnectionStrings["sqlserver"].ToString();
+        public static string sqlServer = ConfigurationManager.ConnectionStrings["mssqllocaldb"].ToString();
     }
 }

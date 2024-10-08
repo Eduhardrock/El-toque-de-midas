@@ -5,20 +5,24 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using System.Configuration;
 using ModelORM;
+using System.Data.Entity;
 
 namespace Repository
 {
     public class UsuarioRepository
     {
 
-        public List<usuario> listarTodos()
-        {
+        public List<usuario> listarTodos() {
             List<usuario> userList = new List<usuario>();
 
-            using (midasTouchEntities db = new midasTouchEntities())
-            {
-                userList = db.usuarios.ToList();
+            using (midasTouchEntities db = new midasTouchEntities()) {
+                userList = db.usuarios
+                              .Include(u => u.rol)
+                              .Include(u => u.empleado)
+                              .Include(u => u.empleado.persona)
+                              .ToList<usuario>();
             }
 
             return userList;
@@ -37,6 +41,24 @@ namespace Repository
             }
 
             return usuarioBd;
+        }
+
+        public List<usuario> buscarFiltrando(string dni, string username, int rol)
+        {
+            /*List<usuario> userList = new List<usuario>();
+
+            using (midasTouchEntities db = new midasTouchEntities())
+            {
+                userList = db.usuarios
+                                .Where(u => u.username == username && u.id_rol == rol)
+                                .Where(u => u.rol == username)
+                              .Include(u => u.rol)
+                              .Include(u => u.empleado)
+                              .Include(u => u.empleado.persona)
+                              .ToList<usuario>();
+            }*/
+
+            return null;
         }
 
         public usuario agregar(usuario nuevoUsuario)
@@ -59,6 +81,7 @@ namespace Repository
                 if (userBd != null)
                 {
                     userBd.pass = nuevoUsuario.pass;
+                    userBd.username = nuevoUsuario.username;
                     userBd.id_rol = nuevoUsuario.id_rol;
                     db.SaveChanges();
                 }
